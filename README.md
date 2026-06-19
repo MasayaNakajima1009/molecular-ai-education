@@ -3,6 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/MasayaNakajima1009/molecular-ai-education/blob/main/Boiling_Point_Prediction_Colab.ipynb
 )
+
 Educational materials for introducing artificial intelligence and machine learning in chemistry and pharmaceutical sciences.
 
 Developed by
