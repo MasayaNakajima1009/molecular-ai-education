@@ -1,6 +1,5 @@
 # Molecular AI Education
 ![Machine Learning Workflow](top.png)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
 
 Educational materials for introducing artificial intelligence and machine learning in chemistry and pharmaceutical sciences.
 
